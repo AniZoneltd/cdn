@@ -1,0 +1,47 @@
+    .avatar img {
+    width: 48px;
+    height: 48px;
+    border-radius: 35px !important;
+}
+.grid-container .form-description {
+    color: #9d9fb1;
+    display: block !important;
+}
+.fullwidth {
+    display: block !important;
+}
+#sumir{
+    display:none;
+}
+[type=checkbox], [type=radio] {
+    float: left;
+    margin: 15px;
+    display: block;
+}
+.comment-form-cookies-consent label {
+    display: block;
+    font-size: 15px;
+}
+@media only screen and (min-width: 0px) and (max-width: 768px){
+.dooplay_player {
+    float: left;
+    width: 100% !important;
+    top: 55px;
+    margin:0px !important
+    
+}
+.comment-avatar img{
+    max-width: 45px !important;
+    max-height: 45px !important;
+}
+.post-comments ul li.comment .scontent {
+    padding: 20px 5px !important;
+}
+.post-comments ul li.comment .comment-avatar {
+    top: 20px;
+    left: -50px!important;
+}
+#single .content .sbox {
+    padding: 5px 15px !important;
+}
+}
